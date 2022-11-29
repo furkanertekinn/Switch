@@ -1,0 +1,8 @@
+C:\Users\Furkan\source\repos\KararYapilariAlistirma3\KararYapilariAlistirma3\bin\Debug\KararYapilariAlistirma3.exe.config
+C:\Users\Furkan\source\repos\KararYapilariAlistirma3\KararYapilariAlistirma3\bin\Debug\KararYapilariAlistirma3.exe
+C:\Users\Furkan\source\repos\KararYapilariAlistirma3\KararYapilariAlistirma3\bin\Debug\KararYapilariAlistirma3.pdb
+C:\Users\Furkan\source\repos\KararYapilariAlistirma3\KararYapilariAlistirma3\obj\Debug\KararYapilariAlistirma3.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\KararYapilariAlistirma3\KararYapilariAlistirma3\obj\Debug\KararYapilariAlistirma3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\source\repos\KararYapilariAlistirma3\KararYapilariAlistirma3\obj\Debug\KararYapilariAlistirma3.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\KararYapilariAlistirma3\KararYapilariAlistirma3\obj\Debug\KararYapilariAlistirma3.exe
+C:\Users\Furkan\source\repos\KararYapilariAlistirma3\KararYapilariAlistirma3\obj\Debug\KararYapilariAlistirma3.pdb
